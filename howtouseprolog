@@ -1,0 +1,8 @@
+% swipl -start swipl
+% halt. - to stop
+% [tutorial]. - load file (no extension)
+% ancestor(pam, X). - query. type ";" for more results until false.
+
+\+ - not
+=< - less than or equal to
+wa=_ - unbound slot we want to fill in
